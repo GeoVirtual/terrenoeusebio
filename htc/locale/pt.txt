@@ -1,0 +1,16 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_860F6632_8D8F_F5F5_41BB_12AD95D24A79.label = img01
+panorama_860ADFC4_8D8F_F29C_41E0_F50FF84D13B6.label = img02
+panorama_86093999_8D8E_1EB4_41DA_208AEEEE7021.label = img03
+panorama_86090360_8D8E_3394_41D6_FF8C8006B709.label = img04
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Terreno Eusébio
